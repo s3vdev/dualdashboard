@@ -16,6 +16,6 @@ Open the URL:
 ``` http://your-domain.org/dual-dashboard/index.php?wallet=<YOUR_WALLET_ADDRESS>&sub=<YOUR_SUBDOMAIN_FROM_ETHOS> ```
 
 Maybe you heard about rigcheck for ethOS? 
-https://bitbucket.org/s3v3n/rigcheck
+https://github.com/s3v3ns/rigcheck
 
 Isn't it easy :-)
